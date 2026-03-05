@@ -30,8 +30,7 @@ console.log('DETALLES');
 console.log('--------------------');
 
 console.log('Valor principal:    ', 85000);
-
-console.log('Valor calculado:    ', 3 * 85000);
+console.log('Valor con descuento del 30%:    ', 85000 * 0.7); 
 
 console.log('Estado booleano 1:  ', true);
 console.log('Estado booleano 2:  ', false);
